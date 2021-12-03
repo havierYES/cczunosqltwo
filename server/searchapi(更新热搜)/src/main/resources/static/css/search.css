@@ -81,7 +81,10 @@ hr{
 	color:rgba(217, 0, 108, 1.0) ;
 }
 
-
+.test{
+	speak-date: dmy;
+	align-content: end;
+}
 
 /*搜索结果*/
 .result .res-list {
@@ -123,6 +126,7 @@ hr{
 }
 .result .res-list h3 {
 	font-weight: 400;
+	/*font-weight: 400;*/
 	font-size: 16px;
 	margin-bottom: 3px;
 }
